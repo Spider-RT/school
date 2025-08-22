@@ -1,0 +1,7 @@
+- Prüfung ist unverzüglich vorzunehmen (zum nächst möglichem Zeitpunkt)
+- Folge für den Händler = Verlust der Rechte aus einer Mangelrüge
+- Überprüfung des Inhaltes der Warensendung:
+	- Artikel
+	- Menge
+	- Art und Güte
+	- bei umfangreichen Lieferungen reicht Stichprobe

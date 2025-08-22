@@ -1,0 +1,5 @@
+- Überwachung von Unternehmenserfolg
+- Wirtschaftlichkeit
+- Absatz
+- Kosten
+- Liquidität
