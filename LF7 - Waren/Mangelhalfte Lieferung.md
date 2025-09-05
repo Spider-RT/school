@@ -39,3 +39,11 @@
 | offene Mängel                         | unverzüglich nach Erhalt und entdeckung des Schadens<br>bei der Eingangsprüfung                                              | keine unverzügliche Prüfung der Ware nötig:                                                                                 |
 | versteckte Mängel                     | unverzüglich nach Entdeckung<br>jedoch innerhalb von 2 Jahren<br>*Frist für Sachmängelhaftung kann<br>ausgeschlossen werden* | bei neuen Sachen innerhalb von 2 Jahren nach Ablieferung<br><br>bei gebrauchten Sachen beträgt die Sachmängelhaftung 1 Jahr |
 | arglistig<br>verschwiegende<br>Mängel | innerhalb von 3 Jahren                                                                                                       | beginnend am 01.01. des Jahres nach der Entdeckung                                                                          |
+
+## Aufbewahrungspflicht beim Zweiseitigen Handelskauf
+
+**Platzkauf (Verkäufer u. Käufer haben Geschäftssitz am selben Ort)**
+- Ware nicht annehmen
+- Ware zurückschicken
+**Distanzkauf (Verkäufer u. Käufer haben Geschäftss. an unterschiedlichen Orten)
+- Käufer muss Ware auf Kosten des Verkäufers aufbewahren (auch über dritte), bis Verkäufer sich äußert, wie er weiterhin mit der Ware verfahren will
