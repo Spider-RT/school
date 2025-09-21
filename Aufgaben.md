@@ -1,13 +1,56 @@
-Buch S. 293/3
-a. Personelle
-b. Menge
-c. zeitliche
-d. räumlich
+a.
+Handlungskosten in euro = 1.675.000,00€
+Handlungskosten in %
+$(Handlungskosten*100)/AfW=Handlungskosten$
+$(1.675.000,00*100)/5.500.000,00=30,45$
 
-1. MB = 170 Stk
-2. EB = 225 Stk
-3. Ausgang = 6
-   Bestand_1 = 50
-   Bestand_2 = 92 
-   Bemerkung = Bestellung 60 Stk
-   Lieferzeit = 10 Tage
+
+| Kostenpunkt    |  Kosten in € |
+| -------------- | -----------: |
+| AfW            | 4.800.632,50 |
+| Personalkosten |   750.000,00 |
+| Mieten         |   200.000,00 |
+| AfE            |   350.000,00 |
+| Betr. Steuern  |   150.000,00 |
+| Werbung        |   100.000,00 |
+| Büromat.       |   125.000,00 |
+*Handlungskosten = 1.675.000,00€*
+$(HK*100)/AfW$
+$(1.675.000,00*100)/4.800.632,50 = 34,89$
+**Handlungskostenzuschlag = 34,89%**
+
+2.
+	a.
+	$(84.000,00*100)/300.400,00=27,96$
+	**HKZ = 27,96%**
+	b. 
+	$(125.000,00*100)/855.369,50=14,61$
+	**HKZ = 14,61%**
+	c. 
+	$(1.003.123,00*100)/1.987.654,32=50,47$
+	**HKZ = 50,47%**
+
+3.
+
+| Kostenpunk      |  Kosten in € |
+| --------------- | -----------: |
+| Handlungskosten |   123.456,00 |
+| Wareneinsatz    | 1.123.456,00 |
+| Bezugspreis TV  |       666,66 |
+$HKZ=(HK*100)/AfW$
+$HKZ=(123.456,00*100)/1.123.456,00$
+$HKZ=10.98\%$
+$SKPTV=666,66+(666,66*10,98\%)$
+**SKPTV=739,86$**
+
+4.
+	a.
+	$12.25+(12.25*20\%)=14,70$
+	b.
+	$34,95+(34,95*30\%)=45,43$
+	c.
+	$1286,56+(1286,56*6,3\%)=1367,61$
+
+5.
+	a.
+	$$

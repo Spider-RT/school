@@ -10,6 +10,7 @@
 [[Dokumentation]]
 [[Rechenschaft (-slegung)]]
 [[Kontrolle]]
+[[Disposition]]
 #### Eingangsrechnungen
 - von Lieferanten (Debitoren)
 - kommen intern
