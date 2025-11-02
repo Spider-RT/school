@@ -78,3 +78,6 @@ $Selbstkosten=5.950.000,00$
 | =   | Gewinnzuschlag in €      |      188.100,00 |                      |
 Gewinnzuschlag in % = $(Gewinn*100)/Selbstkosten$
 GWZ = $(188.100,00*100)/5.950.000,00=3,16\%$
+$SKP=NvP*100/(100+Prozent)$
+$SKPDiff=NvP*Prozent/(100+Prozent)$
+$GWZDiffP=(NvP-SKP)/SKP*100$

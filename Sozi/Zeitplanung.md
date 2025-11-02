@@ -6,7 +6,7 @@
 ### Lagerbestandsarten
 **Höchstbestand:** ist die Menge an Waren, die ein Lagerort höchstens aufnehmen kann
 
-Ermittlung: HB = EB + BM
+**Ermittlung: HB = EB + BM**
 *Höchstbestand =  Bestand + optimale Bestellmenge*
 
 **Eiserner Bestand / Mindestbestand: (EB)**

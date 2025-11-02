@@ -66,3 +66,16 @@
 | .  4. Bank         |  96.230,- |                 |           |
 |                    |           |                 |           |
 |                    | 431.980,- |                 | 431.980,- |
+
+6.
+a. Anlagevermögen=20.250.000,00
+b. Umlaufvermögen=24.750.000,00
+c. Eigenkapital=18.000.000,00
+d. Schulden=27.000.000,00
+
+7.
+Eigenkapital=2.500.000,00
+Bilanzsumme=4.350.000,00
+Anteil Umlaufverm.=29,88% =~30%
+Barliq.=3.71%
+Anteil Fremdkap.=42.53%

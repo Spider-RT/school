@@ -45,5 +45,45 @@
 **Platzkauf (Verkäufer u. Käufer haben Geschäftssitz am selben Ort)**
 - Ware nicht annehmen
 - Ware zurückschicken
-**Distanzkauf (Verkäufer u. Käufer haben Geschäftss. an unterschiedlichen Orten)
+**Distanzkauf (Verkäufer u. Käufer haben Geschäftss. an unterschiedlichen Orten)**
 - Käufer muss Ware auf Kosten des Verkäufers aufbewahren (auch über dritte), bis Verkäufer sich äußert, wie er weiterhin mit der Ware verfahren will
+
+# Rechte des Käufers bei mangelhafter Lieferung
+## Vorrangige Rechte
+Nacherfüllung, Käufer kann wählen:
+- Ersatzlieferung
+- Reparatur
+$+ Schadensersatz$
+
+nach 2 fehlgeschlagenen Versuchen
+## Nachrangige Rechte
+**Rücktritt vom Vertrag oder Minderung (Preisnachlass) + Schadensersatz**
+
+Grundsätzlich entscheidet der Käufer, ob Ersatz oder Reparatur.
+Händler kann bei unverhältnismäßigen Kosten dies verweigern.
+
+Kunde ist mit der Ware unzufrieden:
+- Ware gefällt nicht:
+	- Umtausch (freiwillige Verpflichtung des Händlers, Ware ohne Fehler zurückzunehmen)
+	
+- Ware ist mangelhaft:
+	- Garantie
+		- freiwillige (vertragliche) Verpflichtung (in der Regel des Produzenten), dass
+		  innerhalb einer Zeit keine Mängel auftreten bzw. diese bei Auftreten beseitigt werden.
+	- gesetzliche Gewährleistung bei mangelhafter Lieferung
+	  (Rechtsanspruch durch Gesetz)
+
+### Gründe für den Umtausch
+- Artikel gefällt dem Kunden nicht
+- Angehörigem sagt die Ware nicht zu
+- Kauf war unüberlegt
+- Größe, Form, Farbe passt nicht
+- gekaufte Ware ist schon vorhanden
+- gleicher Artikel günstiger bei Konkurrenz
+
+### Garantie
+- Ist eine freiwillige Zusatzleistung des Verkäufers
+- Verkäufer räumt Käufer Anspruch ein, der über die gesetzliche mängelhaftung hinausgeht
+
+- Kaufpreis wird erstattet
+- Sache wird ausgetauscht oder nachgebessert oder sonstige Dienstleistungen im Zusammenhang der Ware
