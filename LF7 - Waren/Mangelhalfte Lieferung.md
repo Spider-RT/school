@@ -38,7 +38,7 @@
 | ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
 | offene Mängel                         | unverzüglich nach Erhalt und entdeckung des Schadens<br>bei der Eingangsprüfung                                              | keine unverzügliche Prüfung der Ware nötig:                                                                                 |
 | versteckte Mängel                     | unverzüglich nach Entdeckung<br>jedoch innerhalb von 2 Jahren<br>*Frist für Sachmängelhaftung kann<br>ausgeschlossen werden* | bei neuen Sachen innerhalb von 2 Jahren nach Ablieferung<br><br>bei gebrauchten Sachen beträgt die Sachmängelhaftung 1 Jahr |
-| arglistig<br>verschwiegende<br>Mängel | innerhalb von 3 Jahren                                                                                                       | beginnend am 01.01. des Jahres nach der Entdeckung                                                                          |
+| arglistig<br>verschwiegende<br>Mängel | innerhalb von 3 Jahren, ab 01.01 des folgenden Jahres                                                                        | beginnend am 01.01. des Jahres nach der Entdeckung                                                                          |
 
 ## Aufbewahrungspflicht beim Zweiseitigen Handelskauf
 

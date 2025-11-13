@@ -43,3 +43,26 @@ Buchführungs- und Inventar Erstellungspflicht
 - Keine Buchung ohne Beleg
 - elektronische Aufbewahrung aller Buchungsunterlagen (außer Eröffnungsbilanzen und Jahresabschlüsse); müssen jederzeit lesbar sein
 - Nachvollziehbarkeit von Änderungen
+
+## Arbeitsschritte der Belegsortierung ([[P]])
+1. Prüfung auf sachliche und rechnerische Richtigkeit
+2. Sortierung nach Belegart
+3. Nummerierung der Belege mit fortlaufenden Belegnummern
+4. Buchhalterische Erfassung der Belege (Vorkontiert > Grund- und Hauptbuch)
+5. Belegablage (10 Jahre mit Schluss des Kalenderjahres)
+
+## Ordnungskriterien
+- Belegarten
+- Datum
+- Belegnummer
+- Lieferer oder Liefernummer
+- Kunden oder Kundennummer
+
+## Belegaufbewahrung
+- für 10 Jahre; gerechnet vom Schluss des Kalenderjahres
+- i.d.R. Ablage fortlaufend in Ordnern
+- Bei elektronischer muss jederzeit Auswertbar sein
+
+## Verstöße gegen Grundsätze
+- Schätzung der Besteuerungsgrundlagen
+- Freiheitsstrafen oder Geldstrafen
