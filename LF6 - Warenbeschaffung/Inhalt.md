@@ -1,12 +1,7 @@
-## [[Bezugsstellenermittlung]]
-- besten Lieferanten
-
-## [[Zeitplanung]]
-- bester Bestellpunkt
-- meldebestand, eiserner bestand, höchstbestand
-
-## [[Mengenplanung]]
-- optimale bestellmenge
-
-## [[Limitrechnung]]
-- finanzplanung
+---
+tags:
+  - LF6
+---
+```dataview
+list from #LF6
+```

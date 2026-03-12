@@ -1,3 +1,7 @@
+---
+tags:
+  - Sozi
+---
 ### Pflichtversicherungen
 **Gelten für alle Beschäftigten**
 - Krankenvers.

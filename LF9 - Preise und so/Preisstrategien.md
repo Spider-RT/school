@@ -1,3 +1,7 @@
+---
+tags:
+  - LF9
+---
 ### Räumliche Preisdifferenzierung
 - unterschiedliche Märkte mit unterschiedlichen Preisen für das selbe Produkt
 

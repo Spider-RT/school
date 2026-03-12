@@ -1,3 +1,7 @@
+---
+tags:
+  - Sozi
+---
 Das Soziale Netz in Deutschland
 - soll in problematischen Situationen auffangen/helfen
 

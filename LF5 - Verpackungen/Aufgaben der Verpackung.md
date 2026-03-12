@@ -1,3 +1,7 @@
+---
+tags:
+  - LF5
+---
 ### Anforderungen und Aufgaben der Verpackung
 - zweckmäßige Packung sollte **kundenfreundlich, umweltfreundlich, 
   und kostengünstig**

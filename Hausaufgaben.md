@@ -1,3 +1,2 @@
-AB 128
-14.11 - Test Belege
-**Verkaufsgespräch (27.11) (Whiskey 3 Stk. Party Thema)**
+LB. S. 312 3.
+LB. 243 6.

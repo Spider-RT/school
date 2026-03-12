@@ -1,3 +1,7 @@
+---
+tags:
+  - LF7
+---
 - im Rahmen des WWS (Warenwirtschaftssystem) elektronisch geführt
 - alle Wareneingänge werden mit Datum, Liefer, Transporteur, Warenart,
   Menge usw. festgehalten

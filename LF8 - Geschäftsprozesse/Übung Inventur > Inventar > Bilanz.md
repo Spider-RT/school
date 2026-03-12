@@ -1,3 +1,7 @@
+---
+tags:
+  - LF8
+---
 # Jahr A
 ## Inventar
 

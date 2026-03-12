@@ -1,3 +1,7 @@
+---
+tags:
+  - LF8
+---
 - Gesetzliche Vorschriften an:
 	- Unternehmenseignern
 	- Finanzbehörden

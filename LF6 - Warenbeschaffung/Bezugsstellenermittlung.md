@@ -1,3 +1,7 @@
+---
+tags:
+  - LF6
+---
 ## Durchführung
 - Anfrage stellen
 - Angebotsinhalte interpretieren können
@@ -5,12 +9,12 @@
 - Angebotsvergleiche durchführen
 - Bestellung auslösen
 ### Lieferantenauswahl
-- Verügbarkeit (rechtzeitig und in guter qualität)
+- Verfügbarkeit (rechtzeitig und in guter Qualität)
 - mögliche Alternative
 - gut Konditionen nutzen (Rabatt)
 #### Quantitative Kriterien (in Euro messbar)
 - Preis (Listenkaufpreis, Rabatt)
-- Zahlungsbedingungen (netto kasse, [[Dictionary#Skonto|skonto]], ratenkauf...)
+- Zahlungsbedingungen (netto Kasse, [[Dictionary#Skonto|skonto]], Ratenkauf...)
 - Lieferbedingungen (frei haus, ab Werk, unfrei...)
 #### Qualitative Kriterien (nicht in Euro messbar)
 - Qualität

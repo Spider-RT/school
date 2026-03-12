@@ -1,3 +1,7 @@
+---
+tags:
+  - LF5
+---
 # Gesetzliche Vorschriften bei der Absatzwerbung und Verkaufsförderung
 
 ---

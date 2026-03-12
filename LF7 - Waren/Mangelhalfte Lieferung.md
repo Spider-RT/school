@@ -1,3 +1,7 @@
+---
+tags:
+  - LF7
+---
 #### Sachmängel
 - Mangel in der Art (Falschlieferung)
 	- falsche Ware

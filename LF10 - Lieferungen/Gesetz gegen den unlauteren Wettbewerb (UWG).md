@@ -1,3 +1,7 @@
+---
+tags:
+  - LF10
+---
 **Ziel: Schutz von Verbrauchern, Mitbewerbern & fairem Wettbewerb**
 # § 3 UWG - Verbot unlautere geschäftlicher Handlungen / Rechtsbruch
 ## Aussage
@@ -44,7 +48,7 @@ mit dünner Echtleder-Schicht besteht.
 Verschweigen oder Vorenthalten wesentlicher Informationen
 
 ## § 5b UWG - Wesentliche Information
-Definition, was als wesentliche Information, gilt, die nicht fehlen darf.
+Definition, was als wesentliche Information gilt, die nicht fehlen darf.
 
 ## § 5c UWG - Informationspflichten
 Verknüpfung mit gesetzlichen Informationspflichten (z.B. BGB, PAngV)

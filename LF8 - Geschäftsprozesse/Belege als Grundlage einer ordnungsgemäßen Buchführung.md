@@ -1,3 +1,7 @@
+---
+tags:
+  - LF8
+---
 # Belegsortierung (LB S. 215ff)
 - erfolgt durch Übernahme der Ordnungskriterien
 	- Belegarten z.B. AR, ER, Kassenbeleg, Bankauszug

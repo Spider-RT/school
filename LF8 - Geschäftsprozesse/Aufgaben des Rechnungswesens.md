@@ -1,3 +1,7 @@
+---
+tags:
+  - LF8
+---
 ### Zentrale Aufgabe
 - erfasst, dokumentiert und bildet alle Geschäftsprozesse ab
 

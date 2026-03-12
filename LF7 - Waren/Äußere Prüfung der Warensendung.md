@@ -1,3 +1,7 @@
+---
+tags:
+  - LF7
+---
 ## Inhalte der Überprüfung
 - Anschrift des Absenders
 - Anschrift des Empfängers

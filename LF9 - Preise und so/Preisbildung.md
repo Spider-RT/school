@@ -1,3 +1,7 @@
+---
+tags:
+  - LF9
+---
 ### Situation bei der Preisfestsetzung
 #### Preisuntergrenze
 - Bezugspreis/Einstandspreis vom Lieferer vorgegeben

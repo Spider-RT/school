@@ -1,3 +1,7 @@
+---
+tags:
+  - LF7
+---
 Gesetzliche Grundlage = Preisangabenverordnung
 - Bruttoverkaufspreis (inkl. Umsatzsteuer)
 - Gütebezeichnung (z.B. Handelsklasse)

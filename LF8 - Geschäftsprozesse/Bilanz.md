@@ -1,3 +1,7 @@
+---
+tags:
+  - LF8
+---
 ## Inventar
 #### Definition:
 Weißt zu einem bestimmten tag (Abschlussstichtag)
@@ -40,3 +44,23 @@ S. 206 Bilanz Bsp.
 | >                      2.171.734,- | >               2.171.734,- |
 
 Inventur > Inventar > Bilanz
+
+
+| Aktiva (Vermögen)                             |                                                 | Passiva (Kapital)                             |                                               |
+| --------------------------------------------- | ----------------------------------------------- | --------------------------------------------- | --------------------------------------------- |
+| Aktivkonten                                   |                                                 | Passivkonten                                  |                                               |
+| **S**<br>**AB**<br>Zugänge (+)<br>(Mehrungen) | **H**<br>Abgänge (-)<br>(Minderungen)<br>**SB** | **S**<br>Abgänge (-)<br>(Mehrungen)<br>**SB** | **H**<br>**AB**<br>Zugänge (+)<br>(Mehrungen) |
+*Ab = Anfangsbestand*
+*SB = Schlussbestand*
+
+### Vorgehen für Buchungen auf Bestandskonten
+1. Welche Konten werden berührt
+2. Um welche Kontoart handelt es sich (Aktiv oder Passiv)
+3. Wie wirkt sich der Geschäftsvorfall auf den Bestand der Konten aus (+ oder -)
+4. Auf welcher Kontenseite wird gebucht (Soll oder Haben)
+
+### Abschluss der Konten (Berechnung der SB)
+1. Wertmäßig größere Seite wird addiert
+2. Kontensumme wird auf wertmäßigen kleinere Seite übertragen
+3. Buchung auf der wertmäßig kleineren Seite werde von der Kontensumme abgezogen
+4. Die Differenz (Saldo) der beiden Seiten ergibt Schlussbestand
