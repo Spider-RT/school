@@ -1,0 +1,6 @@
+- Differenz zwischen Soll- und Ist-Bestand
+- Mögliche Ursachen:
+	- Aufnahmefehler
+	- Fehler bei der Eingabe im WWS
+	- Verderb oder Diebstahl
+	- nicht gemeldeter und nicht erfasster Verderb oder Bruch von Ware
