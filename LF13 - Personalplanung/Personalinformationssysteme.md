@@ -1,0 +1,7 @@
+- Systeme zur zentralen Erfassung von Mitarbeiterdaten (Adresse, Vertragsdaten, Stunden-Soll)
+- **WICHTIG**: Datenschutz beachten
+- Hauptfunktionen:
+	- Lohn- und Gehaltsabrechnung
+	- Zeitermittlung
+	- Personalplanung
+	- Verwaltung der Personalstammdaten
