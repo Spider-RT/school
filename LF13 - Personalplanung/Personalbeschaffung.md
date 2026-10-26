@@ -20,4 +20,4 @@ Bei der Auswahl des Werbeträgers ist unbedingt die Zielgruppe zu beachten:
 - siehe LB. S. 238 oben
 
 Beachtung des **Allgemeinen Gleichbehandlungsgesetzes (AGG)**
-*zur vermeidung von Benachteiligungen während Bewerbungsverfahrens, insbesondere bei dier Formulierung von Stellenanzeigen. **LB. S. 239 Mitte***
+*zur vermeidung von Benachteiligungen während Bewerbungsverfahrens, insbesondere bei dier Formulierung von Stellenanzeigen.* ***LB. S. 239 Mitte***

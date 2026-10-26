@@ -10,7 +10,7 @@ Der Istkaufmann erlangt die Kaufmannseigenschaft dadurch, dass er ein Gewerbe be
 ## Kann Kaufmann
 Der Kannkaufmann erlangt die Kaufmannseigenschaft erst durch freiwillige Eintragung in das 
 Handelsregister.
-Die Eintragung gilt als rechtsbündend
+Die Eintragung gilt als rechtsbegründed
 
 => Kleingewerbe, Forst und landwirtschaftliche Betriebe
 
